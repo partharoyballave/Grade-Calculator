@@ -3,7 +3,7 @@
 # This program receives percentage marks and their respective subjects then calculates
 # the average and median mark alongside a corresponding letter grade based on the canadian
 # grading system.
-#
+
 
 # Finds letter grades from percentage grades
 def find_letter_grade(mark):
