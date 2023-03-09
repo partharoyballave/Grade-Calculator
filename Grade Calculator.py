@@ -1,7 +1,7 @@
 #   Dec 17, 2022              Grade Calculator                     Roy Ballave, Partha
 #
 # This program receives percentage marks and their respective subjects then calculates
-# the average and median mark alongside a corresponding letter grade based on the canadian
+# the average and median mark alongside a corresponding letter grade based on the Canadian
 # grading system.
 
 
