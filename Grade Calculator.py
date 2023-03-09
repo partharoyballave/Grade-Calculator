@@ -5,7 +5,7 @@
 # grading system.
 
 
-# Finds letter grades from percentage grades
+# Finds letter grades from percentage marks
 def find_letter_grade(mark):
     if mark > 100 or mark < 0:
         return "E"
